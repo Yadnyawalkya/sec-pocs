@@ -1,0 +1,8 @@
+==================================================================
+			TOOL INFORMATION
+===================================================================
+
+~ dirsearch: Use to bruteforce search directory prefix/suffix
+https://github.com/maurosoria/dirsearch
+
+
