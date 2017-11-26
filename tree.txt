@@ -1,0 +1,30 @@
+.
+├── chaining
+│   ├── Chaining\ Self\ XSS\ with\ UI\ Redressing\ is\ Leading\ to\ Session\ Hijacking\ (PWN\ users\ like\ a\ boss)\ (2017-11-25\ 7_26_21\ PM).htm
+│   └── Chain\ the\ vulnerabilities\ and\ take\ your\ report\ impact\ on\ the\ moon\ (CSRF\ to\ HTML\ INJECTION\ which\342\200\246\ (2017-11-25\ 7_41_36\ PM).htm
+├── CORS
+│   └── Stealing\ User\ Details\ By\ Exploiting\ CORS\ \342\200\223\ Armaan\ Pathan\ \342\200\223\ Medium\ (2017-11-25\ 7_28_38\ PM).htm
+├── CSRF
+│   └── by\ removing\ parameter.htm
+├── IDOR
+│   ├── Facebook\ event\ IDOR.htm
+│   └── Medium\ Clap\ IDOR.htm
+├── interesting
+│   └── Ruby\ Gem,\ Markdown\ XSS_\ Six\ Security\ Vulnerabilities\ learned\ from\ a\ Year.htm
+├── logical_flaws
+│   └── admin_takeover
+│       └── Getting\ access\ to\ 25k\ employees\ details\ \342\200\223\ BugBountyWriteup\ \342\200\223\ Medium\ (2017-11-25\ 6_19_01\ PM).htm
+├── networking
+│   └── How\ I\ Hacked\ 40\ Websites\ in\ 7\ minutes\ \342\200\223\ Hacker\ Noon\ (2017-11-25\ 6_55_25\ PM).htm
+├── privilege_escalation
+│   └── Luminate\ Internal\ Privilege\ Escalation\ \342\200\224\ Admin\ to\ Owner\ (2017-11-25\ 8_13_00\ PM).htm
+├── RCE
+│   └── How\ I\ got\ 5500$\ from\ Yahoo\ for\ RCE\ \342\200\223\ BugBountyWriteup\ \342\200\223\ Medium\ (2017-11-25\ 6_39_23\ PM).htm
+├── tool_guide.txt
+├── tree.txt
+└── XSS
+    ├── Bypass\ XSS\ with\ onload\ escalation\ from\ rendering.htm
+    ├── Exploting\ Store\ XSS\ with\ PHP\ keystroke\ .htm
+    └── Store\ XSS\ keystoke\ PHP\ actice\ POC.htm
+
+11 directories, 16 files

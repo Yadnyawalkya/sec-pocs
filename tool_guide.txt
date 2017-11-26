@@ -5,4 +5,8 @@
 ~ dirsearch: Use to bruteforce search directory prefix/suffix
 https://github.com/maurosoria/dirsearch
 
+~ gobuster: Enumerate directories and dns subdomains
+https://github.com/OJ/gobuster
 
+~ Encoded timestamp convertor
+https://www.unixtimestamp.com/
