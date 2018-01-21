@@ -1,0 +1,3 @@
+http://sb*.geo.sp1.yahoo.com
+http://bf1-adxdb-001.data.bf1.yahoo.com/about.php 
+
